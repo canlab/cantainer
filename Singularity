@@ -15,7 +15,7 @@ From: poldracklab/fmriprep:latest
     chmod +x /usr/local/miniconda/bin/*
 
     #------------------------------------------------------------------------------
-    # Create directories to enable access to common HPCC mount points
+    # Create directories to enable access to common HPCC mount points, like blanca
     #------------------------------------------------------------------------------
     mkdir /work
  
