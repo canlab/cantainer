@@ -18,4 +18,3 @@ From: poldracklab/fmriprep:latest
     # Create directories to enable access to common HPCC mount points, like blanca
     #------------------------------------------------------------------------------
     mkdir /work
- 
